@@ -55,7 +55,7 @@
 					<configuration>
 						<scanIntervalSeconds>10</scanIntervalSeconds>
 						<webApp>
-							<contextPath>/JenkinsWebApp</contextPath>
+							<contextPath>/JenkinsWebApp3</contextPath>
 						</webApp>
 						<httpConnector>
 							<port>9090</port>
